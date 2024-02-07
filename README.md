@@ -2,11 +2,13 @@
 Undergraduate student at the University of Texas, majoring in Informatics, with a concentration in Human-Centered Data Science, and minoring in Business.
 
 # ✨I’m currently working on:
-<br><br>⚫ Developing machine learning models for binary classification and regression analysis using scikit-learn.<br>⚫Applying logistic regression and other predictive algorithms to real-world data sets.<br>
+<br><br>⚪ Developing machine learning models for binary classification and regression analysis using scikit-learn.<br>⚪Applying logistic regression and other predictive algorithms to real-world data sets.<br>
 # ✨ I’m looking to collaborate on:
-<br><br>Projects focused on machine learning and data science, particularly those that require predictive modeling and data analysis.<br>Interdisciplinary studies that intersect with Human-Centered Data Science and Business.<br>
+<br><br>⚪Projects focused on machine learning and data science, particularly those that require predictive modeling and data analysis.<br>Interdisciplinary studies that intersect with Human-Centered Data Science and Business.<br>
 # 🌱 I’m currently learning:
-<br><br>Advanced techniques in binary prediction and decision-making models.<br>How to optimize machine learning algorithms for better accuracy and efficiency.<br>💬 Ask me about:<br><br>Machine learning applications in business and informatics.<br>My experience with Human-Centered Data Science at the University of Texas.<br>
+<br><br>⚪Advanced techniques in binary prediction and decision-making models.<br>How to optimize machine learning algorithms for better accuracy and efficiency.<br>
+# 💬 Ask me about:
+<br><br>⚪Machine learning applications in business and informatics.<br>⚪My experience with Human-Centered Data Science at the University of Texas.<br>
 
 
 ## 🌐 Socials:
