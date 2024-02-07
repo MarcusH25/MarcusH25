@@ -1,5 +1,5 @@
 # 🚀 About Me:
-Undergraduate student at the University of Texas, majoring in Informatics, with a concentration in Human-Centered Data Science, and minoring in Business.
+⚪Undergraduate student at the University of Texas, majoring in Informatics, with a concentration in Human-Centered Data Science, and minoring in Business.
 
 # ✨I’m currently working on:
 <br><br>⚪ Developing machine learning models for binary classification and regression analysis using scikit-learn.<br>⚪Applying logistic regression and other predictive algorithms to real-world data sets.<br>
