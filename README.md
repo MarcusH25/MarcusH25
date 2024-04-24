@@ -1,4 +1,4 @@
-# 🚀 About Me:
+#  About Me:
 ⚪ Undergraduate student at the University of Texas, majoring in Informatics, with a concentration in Human-Centered Data Science, and minoring in Business.
 
 
